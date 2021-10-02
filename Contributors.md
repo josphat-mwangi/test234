@@ -6,6 +6,7 @@
 - [Njoguu](https://github.com/Njoguu)
 - [noahrono](https://github.com/noahrono)
 - [PessahDerek](https://github.com/PessahDerek)
+- [Danny-Votez](https://github.com/danny-votez)
 
 
 
